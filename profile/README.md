@@ -39,4 +39,4 @@ To create unique, culturally inspired gaming experiences that stand out in the g
 
 - YouTube: (add your link)
 - Portfolio: (add your link)
-- GitHub: https://github.com/NaanMeenGames
+- GitHub: https://github.com/NaanMeen
